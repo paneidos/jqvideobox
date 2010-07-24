@@ -6,8 +6,8 @@
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: rgba(255,153,0,0.8);
-	*background: #f90;
+	background: rgba(255,255,255,0.8);
+	*background: #fff;
 	*filter: alpha(opacity=80);
 	display: none;
 	z-index:9999;
